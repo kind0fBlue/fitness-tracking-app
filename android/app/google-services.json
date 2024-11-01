@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "244342273697",
+    "firebase_url": " https://fitness-app-21cc4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fitness-app-21cc4",
+    "storage_bucket": "fitness-app-21cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244342273697:android:1e02635bf307dac7dd22e0",
+        "android_client_info": {
+          "package_name": "com.example.fitness0001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ddqHBNI0AQsfL14wghz7UIn-YuFmAGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
